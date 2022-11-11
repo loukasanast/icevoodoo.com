@@ -1,0 +1,80 @@
+@font-face {
+    font-family: 'Arial';
+    src: url('Arial-Black.eot');
+    src: url('Arial-Black.eot?#iefix') format('embedded-opentype'),
+        url('Arial-Black.woff') format('woff'),
+        url('Arial-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Broadway';
+    src: url('Broadway.eot');
+    src: url('Broadway.eot?#iefix') format('embedded-opentype'),
+        url('Broadway.woff') format('woff'),
+        url('Broadway.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AR BLANCA';
+    src: url('ARBLANCA.eot');
+    src: url('ARBLANCA.eot?#iefix') format('embedded-opentype'),
+        url('ARBLANCA.woff') format('woff'),
+        url('ARBLANCA.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Arial';
+    src: url('Arial-ItalicMT.eot');
+    src: url('Arial-ItalicMT.eot?#iefix') format('embedded-opentype'),
+        url('Arial-ItalicMT.woff') format('woff'),
+        url('Arial-ItalicMT.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Chiller';
+    src: url('Chiller-Regular.eot');
+    src: url('Chiller-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Chiller-Regular.woff') format('woff'),
+        url('Chiller-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Courier New';
+    src: url('CourierNewPSMT.eot');
+    src: url('CourierNewPSMT.eot?#iefix') format('embedded-opentype'),
+        url('CourierNewPSMT.woff') format('woff'),
+        url('CourierNewPSMT.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Courier New';
+    src: url('CourierNewPS-BoldMT.eot');
+    src: url('CourierNewPS-BoldMT.eot?#iefix') format('embedded-opentype'),
+        url('CourierNewPS-BoldMT.woff') format('woff'),
+        url('CourierNewPS-BoldMT.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Daniel';
+    src: url('Daniel-Bold.eot');
+    src: url('Daniel-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Daniel-Bold.woff') format('woff'),
+        url('Daniel-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
